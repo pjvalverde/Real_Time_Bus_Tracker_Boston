@@ -3,7 +3,7 @@ Bus stations from MIt to Harvard
 
 
 ## Real Time Bus Tracker
-<img src = "Boston2.png" width = "400" />
+<img src = "Boston2.png" width = "700" />
 
 **Project description:**
 
